@@ -1,0 +1,144 @@
+.dashboard-container {
+    background: #f5f7fa;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.dashboard-card {
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    background: #fff;
+    transition: all 0.3s ease;
+}
+
+.dashboard-card:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-stats-card {
+    background: linear-gradient(135deg, #1890ff 0%, #40c4ff 100%);
+    color: #fff;
+    padding: 24px;
+    border-radius: 12px;
+}
+
+.dashboard-stats-title {
+    color: rgba(255, 255, 255, 0.85);
+    margin-bottom: 8px;
+}
+
+.dashboard-stats-value {
+    color: #fff;
+    font-weight: 600;
+}
+
+.dashboard-stats-change {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.ant-table {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.ant-table-thead>tr>th {
+    background: #fafafa;
+    font-weight: 600;
+}
+
+.ant-progress-circle .ant-progress-text {
+    color: #1890ff;
+    font-weight: 500;
+}
+
+.admin-sidebar-container {
+    border-right: 1px solid #e8ecef;
+    background: #fff;
+    position: sticky;
+    top: 0;
+}
+
+.admin-sidebar-menu {
+    height: 100%;
+    border-right: none !important;
+    padding: 16px 0;
+}
+
+.admin-sidebar-menu .ant-menu-item {
+    /* margin: 8px 12px; */
+    padding: 10px 16px !important;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.admin-sidebar-menu .ant-menu-item-selected {
+    background-color: #e6f7ff;
+    color: #1890ff;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.admin-sidebar-menu .ant-menu-item:hover {
+    color: #1890ff;
+    background-color: #f5faff;
+}
+
+@media (max-width: 992px) {
+    .dashboard-container {
+        padding: 16px;
+    }
+
+    .dashboard-stats-card {
+        padding: 16px;
+    }
+
+    .dashboard-stats-value {
+        font-size: 1.5rem;
+    }
+
+    .ant-col {
+        margin-bottom: 16px;
+    }
+
+    .admin-sidebar-container {
+        height: auto;
+        position: relative;
+        border-right: none;
+        border-bottom: 1px solid #e8ecef;
+    }
+
+    .admin-sidebar-menu {
+        padding: 8px 0;
+    }
+
+    .admin-sidebar-menu .ant-menu-item {
+        margin: 4px 8px;
+        padding: 8px 12px !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .dashboard-container {
+        padding: 12px;
+    }
+
+    .dashboard-stats-card {
+        text-align: center;
+    }
+
+    .dashboard-stats-value {
+        font-size: 1.2rem;
+    }
+
+    .dashboard-card {
+        border-radius: 8px;
+    }
+
+    .ant-table {
+        font-size: 12px;
+    }
+
+    .ant-progress-circle {
+        width: 60px !important;
+    }
+}
