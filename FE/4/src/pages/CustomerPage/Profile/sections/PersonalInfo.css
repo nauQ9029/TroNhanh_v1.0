@@ -1,0 +1,53 @@
+
+
+.personal-info-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.personal-info-card {
+  width: 800px;
+  height: 600px;
+  border-radius: 20px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+  padding: 32px;
+  background: #fff;
+}
+
+.avatar-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.avatar-style {
+  margin-bottom: 16px;
+  cursor: pointer;
+  border: 2px solid #eee;
+}
+
+.label-style {
+  width: 140px;
+  min-width: 140px;
+  text-align: left;
+  margin-right: 16px;
+  font-weight: bold;
+}
+
+.flex-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.flex-content {
+  flex: 1;
+}
+
+.flex-content-inline {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}

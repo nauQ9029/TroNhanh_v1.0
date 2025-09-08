@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "686641380697e1f62dff0a5d"
+  },
+  "role": "customer",
+  "name": "Anh Dep Trai",
+  "email": "anhbui204123@gmail.com",
+  "password": "$2b$10$2ylbbaISCpcFaeS.8yFLK.BZ22IkZVuSrsdFJzEXFutgqlTC9/0xy",
+  "phone": "0376985743",
+  "gender": "male",
+  "avatar": "/uploads/avatars/1751533675254-8f120cffea198788e158a80bbe97effd.jpg",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-07-03T08:37:12.215Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T09:07:55.277Z"
+  },
+  "__v": 0,
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "role": "owner",
+  "name": "Anh Dep Trai So Mot",
+  "email": "anhbui20412345@gmail.com",
+  "password": "$2b$10$mcqbHQ6WDZTUXKJQT/IIoe0NhbXQpSXGd/598jFE4B6lGURhdXxoa",
+  "phone": "0376985743",
+  "gender": "male",
+  "avatar": "http://localhost:5000/uploads/avatars/1752593477643-274487322_101969099103204_8528031152781525499_n.jpg",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-07-08T02:47:22.540Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T15:31:17.701Z"
+  },
+  "__v": 0,
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "686f49632918ead73e4f49f1"
+  },
+  "role": "customer",
+  "name": "Anh Dep Trai Nhat The Gioi",
+  "email": "anhbui1516@gmail.com",
+  "password": "$2b$10$eNEJekhuGdMJ1aSQtSkgc.Gudlhbdkn37ZzdaiKu.AcmbOvJGf8Oy",
+  "phone": "0376985743",
+  "gender": "male",
+  "avatar": "",
+  "status": "inactive",
+  "verified": false,
+  "resetPasswordToken": null,
+  "resetPasswordExpires": null,
+  "createdAt": {
+    "$date": "2025-07-10T05:02:27.981Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-10T05:02:27.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f8e0161c7934f029a5b29"
+  },
+  "role": "customer",
+  "name": "Anh Dep Trai",
+  "email": "anhbui2k412@gmail.com",
+  "password": "$2b$10$1gakmIf3fKDfO7srSvIBcuZHJQQjiXETi5Xx5VlEJr0GHW8sHUwZu",
+  "phone": "0376985743",
+  "gender": "male",
+  "avatar": "http://localhost:5000/uploads/avatars/1752141485282-8f120cffea198788e158a80bbe97effd.jpg",
+  "status": "inactive",
+  "verified": true,
+  "resetPasswordToken": null,
+  "resetPasswordExpires": null,
+  "createdAt": {
+    "$date": "2025-07-10T09:55:13.451Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T07:53:16.803Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2025-07-16T07:53:16.802Z"
+  },
+  "isDeleted": true
+},
+{
+  "_id": {
+    "$oid": "6874dbbfa068d4c22bffc7bf"
+  },
+  "role": "admin",
+  "name": "admin",
+  "email": "admin123@gmail.com",
+  "password": "$2b$10$dYqD9YGKpM2gVDNf1emueOEFUhV50J0hH3uLSaUAQ6fMm5tQx4YQe",
+  "phone": "0123456789",
+  "gender": "other",
+  "avatar": "",
+  "status": "active",
+  "verified": true,
+  "resetPasswordToken": null,
+  "resetPasswordExpires": null,
+  "isMembership": "none",
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-07-14T10:28:16.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-14T10:28:16.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6876123d46756d9ee0938158"
+  },
+  "role": "customer",
+  "name": "Khanh luan",
+  "email": "abc123@gmail.com",
+  "password": "$2b$10$RY0IrNrI8NbgeLr2IIDzle8XzAnZpiOtfwjq8K.p4tILYNjtkkCly",
+  "phone": "0123456789",
+  "gender": "other",
+  "avatar": "http://localhost:5000/uploads/avatars/1752652199027-274487322_101969099103204_8528031152781525499_n.jpg",
+  "status": "inactive",
+  "verified": true,
+  "resetPasswordToken": null,
+  "resetPasswordExpires": null,
+  "isMembership": "none",
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-07-16T07:50:51.579Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-15T08:33:01.124Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T07:50:51.579Z"
+  },
+  "__v": 0
+}]

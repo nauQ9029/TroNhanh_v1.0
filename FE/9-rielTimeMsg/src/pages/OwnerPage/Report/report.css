@@ -1,0 +1,183 @@
+/* report.css */
+
+.report-wrapper {
+  padding: 30px;
+  /* background-color: #f8f8f8; */
+  background-color: white;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+  border-radius: 12px;
+}
+
+.report-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #4b6043;
+  margin: 0;
+}
+
+.open-modal-btn {
+  background-color: white !important;
+  color: #49735A !important;
+  border: 2px solid #49735A !important;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.open-modal-btn:hover {
+  background-color: #49735A !important;
+  color: white !important;
+  border-color: #49735A !important;
+}
+
+
+/* Modal form */
+.report-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.report-form label {
+  font-weight: 600;
+  color: #333;
+}
+
+.report-form textarea {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 6px;
+  resize: vertical;
+}
+
+/* Table Status Tags */
+.status-tag {
+  padding: 4px 10px;
+  border-radius: 5px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.status-tag.pending {
+  background-color: #ffe58f;
+  color: #ad8b00;
+}
+
+.status-tag.accepted {
+  background-color: #d9f7be;
+  color: #389e0d;
+}
+
+.status-tag.rejected {
+  background-color: #ffccc7;
+  color: #cf1322;
+}
+
+.report-table {
+  background-color: #F5FBF6;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* Tiêu đề cột */
+.report-table .ant-table-thead > tr > th {
+  background-color: #DDEBDD !important;
+  color: #2f3e2f;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+/* Nội dung bảng */
+.report-table .ant-table-tbody > tr > td {
+  background-color: #F5FBF6;
+  color: #3e3e3e;
+  font-size: 14px;
+}
+
+/* Hover row */
+.report-table .ant-table-tbody > tr:hover > td {
+  background-color: #e8f5ea !important;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .report-wrapper {
+    padding: 20px 16px;
+  }
+
+  .report-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .report-header h2 {
+    font-size: 20px;
+  }
+
+  .open-modal-btn {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 14px;
+  }
+
+  .report-form textarea {
+    font-size: 14px;
+  }
+
+  .report-form label {
+    font-size: 14px;
+  }
+
+  .ant-modal {
+    width: 90% !important;
+  }
+
+  .ant-select {
+    width: 100% !important;
+  }
+
+  /* Make Ant Design table scrollable on small screens */
+  .ant-table-wrapper {
+    overflow-x: auto;
+  }
+
+  .ant-table {
+    min-width: 600px; /* enough to fit all columns horizontally */
+  }
+}
+
+@media (max-width: 480px) {
+  .report-wrapper {
+    padding: 16px 12px;
+  }
+
+  .report-header h2 {
+    font-size: 18px;
+  }
+
+  .open-modal-btn {
+    font-size: 13px;
+  }
+
+  .report-form label,
+  .report-form textarea {
+    font-size: 13px;
+  }
+
+  .status-tag {
+    font-size: 12px;
+    padding: 3px 8px;
+  }
+
+  .ant-modal {
+    width: 95% !important;
+  }
+}

@@ -1,0 +1,398 @@
+[
+  {
+    "id": 0,
+    "city": "Da Nang",
+    "title": "TONY ESTATES Danang Beach Luxury Apartments",
+    "image": "/images/Accommodation/a0/a0.0.jpg",
+    "roomDetails": "2 bedrooms | 1 bath | WiFi | Beach view | 5th floor | Elevator | Parking",
+    "available": "20 July 2025",
+    "price": 2129,
+    "maxGuest": "2",
+    "description": "A 9-minute walk from My Khe Beach in Danang, TONY ESTATES Danang Beach Luxury Apartments offers accommodations with access to spa facilities, wellness packages, and beauty services.",
+    "summary": [
+      "2 bedrooms",
+      "1 bath",
+      "WiFi",
+      "Beach view",
+      "5th floor",
+      "Elevator",
+      "Parking"
+    ],
+    "galleryImages": [
+      "/images/Accommodation/a0/a0.1.jpg",
+      "/images/Accommodation/a0/a0.2.jpg",
+      "/images/Accommodation/a0/a0.3.jpg",
+      "/images/Accommodation/a0/a0.4.jpg"
+    ],
+    "amenities": [
+      { "name": "TV", "icon": "bi-tv", "note": "Flatscreen TV" },
+      { "name": "Fireplace", "icon": "bi-fire" },
+      { "name": "Phone", "icon": "bi-telephone" },
+      { "name": "Work desk", "icon": "bi-laptop", "note": "With computer" },
+      { "name": "Fridge", "icon": "bi-box" },
+      { "name": "Kettle", "icon": "bi-cup" },
+      { "name": "Coffee machine", "icon": "bi-cup-hot" },
+      { "name": "Dishes", "icon": "bi-egg-fried" },
+      { "name": "Washing machine", "icon": "bi-droplet" },
+      { "name": "Dryer", "icon": "bi-wind" },
+      { "name": "Iron", "icon": "bi-lightning-charge" },
+      { "name": "Wardrobe", "icon": "bi-door-closed" }
+    ],
+    "mapPosition": [16.0728501747567, 108.24016773865178]
+  },
+  {
+    "id": 1,
+    "title": "Sujet Da Nang",
+    "city": "Da Nang",
+    "image": "/images/Accommodation/a1/a1.0.jpg",
+    "roomDetails": "2 bedrooms | 2 bath | WiFi | City view | 2nd floor | Elevator | Parking",
+    "available": "01 Dec 2025",
+    "price": 3190,
+    "maxGuest": "3",
+    "description": "Sujet Da Nang is a condo hotel featuring rooms with free Wifi and air conditioning in the center of Danang. The property is around 1.8 miles from Song Han Bridge, 2.2 miles from Asia Park Danang, and 6.5 miles from Marble Mountains.",
+    "summary": [
+      "2 bedrooms",
+      "2 baths",
+      "WiFi",
+      "City view",
+      "2nd floor",
+      "Elevator",
+      "Parking"
+    ],
+    "galleryImages": [
+      "/images/Accommodation/a1/a1.1.jpg",
+      "/images/Accommodation/a1/a1.2.jpg",
+      "/images/Accommodation/a1/a1.3.jpg",
+      "/images/Accommodation/a1/a1.4.jpg"
+    ],
+    "amenities": [
+      { "name": "TV", "icon": "bi-tv", "note": "Flatscreen TV" },
+      { "name": "Fireplace", "icon": "bi-fire" },
+      { "name": "Phone", "icon": "bi-telephone" },
+      { "name": "Work desk", "icon": "bi-laptop", "note": "With computer" },
+      { "name": "Fridge", "icon": "bi-box" },
+      { "name": "Kettle", "icon": "bi-cup" },
+      { "name": "Coffee machine", "icon": "bi-cup-hot" },
+      { "name": "Dishes", "icon": "bi-egg-fried" },
+      { "name": "Washing machine", "icon": "bi-droplet" },
+      { "name": "Dryer", "icon": "bi-wind" },
+      { "name": "Iron", "icon": "bi-lightning-charge" },
+      { "name": "Wardrobe", "icon": "bi-door-closed" }
+    ],
+    "mapPosition": [16.058223389763963, 108.21855029460096]
+  },
+  {
+    "id": 2,
+    "city": "Da Nang",
+    "title": "Lantana House Boutique Da Nang by Haviland",
+    "image": "/images/Accommodation/a2/a2.0.jpg",
+    "roomDetails": "2 bedrooms | 1 bath | WiFi | 5th floor | Elevator | Parking",
+    "available": "28 July 2025",
+    "price": 5490,
+    "maxGuest": "5",
+    "description": "The vast area encompasses beaches and hills, and is characterised by laid-back seafood eateries, beer gardens and upscale jazz venues.",
+    "summary": [
+      "2 bedrooms",
+      "1 bath",
+      "WiFi",
+      "City view",
+      "3rd floor",
+      "Elevator",
+      "Parking"
+    ],
+    "galleryImages": [
+      "/images/Accommodation/a2/a2.1.jpg",
+      "/images/Accommodation/a2/a2.2.jpg",
+      "/images/Accommodation/a2/a2.3.jpg",
+      "/images/Accommodation/a2/a2.4.jpg"
+    ],
+    "amenities": [
+      { "name": "TV", "icon": "bi-tv", "note": "Flatscreen TV" },
+      { "name": "Phone", "icon": "bi-telephone" },
+      { "name": "Work desk", "icon": "bi-laptop", "note": "With computer" },
+      { "name": "Fridge", "icon": "bi-box" },
+      { "name": "Kettle", "icon": "bi-cup" },
+      { "name": "Dishes", "icon": "bi-egg-fried" },
+      { "name": "Washing machine", "icon": "bi-droplet" },
+      { "name": "Iron", "icon": "bi-lightning-charge" },
+      { "name": "Wardrobe", "icon": "bi-door-closed" }
+    ],
+    "mapPosition": [16.063970468895974, 108.24055959828387]
+  },
+  {
+    "id": 4,
+    "city": "Da Nang",
+    "title": "Sena home 3rd-Near Danang Dragon bridge-Han river",
+    "image": "/images/Accommodation/a3/a3.0.jpg",
+    "roomDetails": "1 bedroom | 1 bath | WiFi | City view | 8th floor | Elevator | Parking",
+    "available": "28 Nov 2021",
+    "price": 5299,
+    "maxGuest": "5",
+    "description": "Sena home 3rd-Near Danang Dragon bridge-Han river is located in Danang, just 1.4 miles from Indochina Riverside Mall and 2.7 miles from Asia Park Danang. Featuring mountain and river views, this homestay also comes with free Wifi.",
+    "summary": [
+      "1 bedroom",
+      "1 bath",
+      "WiFi",
+      "City view",
+      "8th floor",
+      "Elevator",
+      "Parking"
+    ],
+    "galleryImages": [
+      "/images/Accommodation/a3/a3.1.jpg",
+      "/images/Accommodation/a3/a3.2.jpg",
+      "/images/Accommodation/a3/a3.3.jpg",
+      "/images/Accommodation/a3/a3.4.jpg"
+    ],
+    "amenities": [
+      { "name": "TV", "icon": "bi-tv", "note": "Flatscreen TV" },
+      { "name": "Fireplace", "icon": "bi-fire" },
+      { "name": "Phone", "icon": "bi-telephone" },
+      { "name": "Work desk", "icon": "bi-laptop", "note": "With computer" },
+      { "name": "Fridge", "icon": "bi-box" },
+      { "name": "Kettle", "icon": "bi-cup" },
+      { "name": "Coffee machine", "icon": "bi-cup-hot" },
+      { "name": "Dishes", "icon": "bi-egg-fried" },
+      { "name": "Washing machine", "icon": "bi-droplet" },
+      { "name": "Dryer", "icon": "bi-wind" },
+      { "name": "Iron", "icon": "bi-lightning-charge" },
+      { "name": "Wardrobe", "icon": "bi-door-closed" }
+    ],
+    "mapPosition": [16.0602205509697, 108.23152764139681]
+  },
+  {
+    "id": 5,
+    "city": "Thua Thien - Hue",
+    "title": "M Village Hotel Hue",
+    "image": "/images/Accommodation/a4/a4.0.jpg",
+    "roomDetails": "1 bedroom | 1 bath | WiFi | City view | 4th floor | Elevator",
+    "available": "29 July 2025",
+    "price": 3490,
+    "maxGuest": "3",
+    "description": "English Vietnamese Free Wi-Fi in all rooms! Internet Internet services Wi-Fi in public areas Billiards Fitness center Gym/fitness Pub crawl Anti-viral cleaning products Breakfast takeaway service Cashless payment service Daily disinfection in all rooms Daily disinfection in common areas First aid kit Free face masks Guest rooms seal after sanitization Hand sanitizer Hot water linen and laundry washing Professional-grade sanitizing services.",
+    "summary": [
+      "1 bedroom",
+      "1 bath",
+      "WiFi",
+      "City view",
+      "4th floor",
+      "Elevator"
+    ],
+    "galleryImages": [
+      "/images/Accommodation/a4/a4.1.jpg",
+      "/images/Accommodation/a4/a4.2.jpg"
+    ],
+    "amenities": [
+      { "name": "TV", "icon": "bi-tv", "note": "Flatscreen TV" },
+      { "name": "Fireplace", "icon": "bi-fire" },
+      { "name": "Phone", "icon": "bi-telephone" },
+      { "name": "Work desk", "icon": "bi-laptop", "note": "With computer" },
+      { "name": "Fridge", "icon": "bi-box" },
+      { "name": "Kettle", "icon": "bi-cup" },
+      { "name": "Coffee machine", "icon": "bi-cup-hot" },
+      { "name": "Dishes", "icon": "bi-egg-fried" },
+      { "name": "Washing machine", "icon": "bi-droplet" },
+      { "name": "Dryer", "icon": "bi-wind" },
+      { "name": "Iron", "icon": "bi-lightning-charge" },
+      { "name": "Wardrobe", "icon": "bi-door-closed" }
+    ],
+    "mapPosition": [16.066430877766198, 108.22384174166301]
+  },
+  {
+    "id": 6,
+    "city": "Thua Thien - Hue",
+    "title": "Banana Flower Apartment",
+    "image": "/images/Accommodation/a5/a5.0.jpg",
+    "roomDetails": "2 bedrooms | 2 baths | WiFi | City view | 4th floor | Elevator | Parking",
+    "available": "28 Nov 2021",
+    "price": 4550,
+    "maxGuest": "4",
+    "description": "A truly global city, London has long been considered a cutting-edge metropolis and hub for culture, style and finance. With each borough, Tube zone and neighborhood of London sporting its own vibe and lifestyle advantages, it can be downright difficult to settle on where to look for a furnished apartment in London . Whether you’re a digital nomad looking for a studio apartment in London or just seeking a month to month rental in London, Blueground has you covered.",
+    "summary": [
+      "1 bedroom",
+      "1 bath",
+      "WiFi",
+      "City view",
+      "3rd floor",
+      "Elevator",
+      "Parking"
+    ],
+    "galleryImages": [
+      "/images/Accommodation/a5/a5.1.jpg",
+      "/images/Accommodation/a5/a5.2.jpg",
+      "/images/Accommodation/a5/a5.3.jpg",
+      "/images/Accommodation/a5/a5.4.jpg"
+    ],
+    "amenities": [
+      { "name": "TV", "icon": "bi-tv", "note": "Flatscreen TV" },
+      { "name": "Fireplace", "icon": "bi-fire" },
+      { "name": "Phone", "icon": "bi-telephone" },
+      { "name": "Work desk", "icon": "bi-laptop", "note": "With computer" },
+      { "name": "Fridge", "icon": "bi-box" },
+      { "name": "Kettle", "icon": "bi-cup" },
+      { "name": "Coffee machine", "icon": "bi-cup-hot" },
+      { "name": "Dishes", "icon": "bi-egg-fried" },
+      { "name": "Washing machine", "icon": "bi-droplet" },
+      { "name": "Dryer", "icon": "bi-wind" },
+      { "name": "Iron", "icon": "bi-lightning-charge" },
+      { "name": "Wardrobe", "icon": "bi-door-closed" }
+    ],
+    "mapPosition": [16.07842691381817, 108.21913842855047]
+  },
+  {
+    "id": 7,
+    "title": "Sharon Apartment",
+    "city": "Thua Thien - Hue",
+    "image": "/images/Accommodation/room3.png",
+    "roomDetails": "3 bedrooms | 2 baths | WiFi | City view | 3rd floor | Elevator | Parking",
+    "available": "14 Aug 2025",
+    "price": 6250,
+    "maxGuest": "6",
+    "description": "A stay at Sharon Apartment and Spa places you in the heart of Da Nang, just a 5-minute walk from My Khe Beach and within a 5-minute drive of Han River. This spa aparthotel is 1.7 mi (2.7 km) from Dragon Bridge and 2.3 mi (3.8 km) from Da Nang Cathedral.",
+    "summary": [
+      "3 bedrooms",
+      "2 baths",
+      "WiFi",
+      "City view",
+      "11th floor",
+      "Elevator",
+      "Parking"
+    ],
+    "galleryImages": [
+      "/images/Accommodation/property1.1.jpg",
+      "/images/Accommodation/property1.2.jpg"
+    ],
+    "amenities": [
+      { "name": "TV", "icon": "bi-tv", "note": "Flatscreen TV" },
+      { "name": "Fireplace", "icon": "bi-fire" },
+      { "name": "Phone", "icon": "bi-telephone" },
+      { "name": "Work desk", "icon": "bi-laptop", "note": "With computer" },
+      { "name": "Fridge", "icon": "bi-box" },
+      { "name": "Kettle", "icon": "bi-cup" },
+      { "name": "Coffee machine", "icon": "bi-cup-hot" },
+      { "name": "Dishes", "icon": "bi-egg-fried" },
+      { "name": "Washing machine", "icon": "bi-droplet" },
+      { "name": "Dryer", "icon": "bi-wind" },
+      { "name": "Iron", "icon": "bi-lightning-charge" },
+      { "name": "Wardrobe", "icon": "bi-door-closed" }
+    ],
+    "mapPosition": [16.05497474982231, 108.24552288649616]
+  },
+  {
+    "id": 8,
+    "city": "Thua Thien - Hue",
+    "title": "Rhoncus suspendisse penatibus mauris, sit non",
+    "image": "/images/Accommodation/room2.png",
+    "roomDetails": "1 bedroom | 1 bath | WiFi | City view | 3rd floor | Elevator | Parking",
+    "available": "28 Nov 2021",
+    "price": 3490,
+    "maxGuest": "3",
+    "description": "A truly global city, London has long been considered a cutting-edge metropolis and hub for culture, style and finance. With each borough, Tube zone and neighborhood of London sporting its own vibe and lifestyle advantages, it can be downright difficult to settle on where to look for a furnished apartment in London . Whether you’re a digital nomad looking for a studio apartment in London or just seeking a month to month rental in London, Blueground has you covered.",
+    "summary": [
+      "1 bedroom",
+      "1 bath",
+      "WiFi",
+      "City view",
+      "3rd floor",
+      "Elevator",
+      "Parking"
+    ],
+    "galleryImages": [
+      "/images/RAccommodation/property2.1.jpg",
+      "/images/Accommodation/property2.2.jpg"
+    ],
+    "amenities": [
+      { "name": "TV", "icon": "bi-tv", "note": "Flatscreen TV" },
+      { "name": "Fireplace", "icon": "bi-fire" },
+      { "name": "Phone", "icon": "bi-telephone" },
+      { "name": "Work desk", "icon": "bi-laptop", "note": "With computer" },
+      { "name": "Fridge", "icon": "bi-box" },
+      { "name": "Kettle", "icon": "bi-cup" },
+      { "name": "Coffee machine", "icon": "bi-cup-hot" },
+      { "name": "Dishes", "icon": "bi-egg-fried" },
+      { "name": "Washing machine", "icon": "bi-droplet" },
+      { "name": "Dryer", "icon": "bi-wind" },
+      { "name": "Iron", "icon": "bi-lightning-charge" },
+      { "name": "Wardrobe", "icon": "bi-door-closed" }
+    ],
+    "mapPosition": [16.061603404432866, 108.24549706278353]
+  },
+  {
+    "id": 9,
+    "city": "Quang Nam",
+    "title": "Rhoncus suspendisse penatibus mauris, sit non",
+    "image": "/images/Accommodation/room1.png",
+    "roomDetails": "1 bedroom | 1 bath | WiFi | City view | 3rd floor | Elevator | Parking",
+    "available": "28 Nov 2021",
+    "price": 3490,
+    "maxGuest": "3",
+    "description": "A truly global city, London has long been considered a cutting-edge metropolis and hub for culture, style and finance. With each borough, Tube zone and neighborhood of London sporting its own vibe and lifestyle advantages, it can be downright difficult to settle on where to look for a furnished apartment in London . Whether you’re a digital nomad looking for a studio apartment in London or just seeking a month to month rental in London, Blueground has you covered.",
+    "summary": [
+      "1 bedroom",
+      "1 bath",
+      "WiFi",
+      "City view",
+      "3rd floor",
+      "Elevator",
+      "Parking"
+    ],
+    "galleryImages": [
+      "/images/Accommodation/property3.1.jpg",
+      "/images/Accommodation/property3.2.jpg"
+    ],
+    "amenities": [
+      { "name": "TV", "icon": "bi-tv", "note": "Flatscreen TV" },
+      { "name": "Fireplace", "icon": "bi-fire" },
+      { "name": "Phone", "icon": "bi-telephone" },
+      { "name": "Work desk", "icon": "bi-laptop", "note": "With computer" },
+      { "name": "Fridge", "icon": "bi-box" },
+      { "name": "Kettle", "icon": "bi-cup" },
+      { "name": "Coffee machine", "icon": "bi-cup-hot" },
+      { "name": "Dishes", "icon": "bi-egg-fried" },
+      { "name": "Washing machine", "icon": "bi-droplet" },
+      { "name": "Dryer", "icon": "bi-wind" },
+      { "name": "Iron", "icon": "bi-lightning-charge" },
+      { "name": "Wardrobe", "icon": "bi-door-closed" }
+    ],
+    "mapPosition": [16.050429895768175, 108.24566584587225]
+  },
+  {
+    "id": 10,
+    "city": "Quang Nam",
+    "title": "Rhoncus suspendisse penatibus mauris, sit non",
+    "image": "/images/Accommodation/room0.png",
+    "roomDetails": "1 bedroom | 1 bath | WiFi | City view | 3rd floor | Elevator | Parking",
+    "available": "28 Nov 2021",
+    "price": 3490,
+    "maxGuest": "3",
+    "description": "A truly global city, London has long been considered a cutting-edge metropolis and hub for culture, style and finance. With each borough, Tube zone and neighborhood of London sporting its own vibe and lifestyle advantages, it can be downright difficult to settle on where to look for a furnished apartment in London . Whether you’re a digital nomad looking for a studio apartment in London or just seeking a month to month rental in London, Blueground has you covered.",
+    "summary": [
+      "1 bedroom",
+      "1 bath",
+      "WiFi",
+      "City view",
+      "3rd floor",
+      "Elevator",
+      "Parking"
+    ],
+    "galleryImages": [
+      "/images/Accommodation/property4.1.jpg",
+      "/images/Accommodation/property4.2.jpg"
+    ],
+    "amenities": [
+      { "name": "TV", "icon": "bi-tv", "note": "Flatscreen TV" },
+      { "name": "Fireplace", "icon": "bi-fire" },
+      { "name": "Phone", "icon": "bi-telephone" },
+      { "name": "Work desk", "icon": "bi-laptop", "note": "With computer" },
+      { "name": "Fridge", "icon": "bi-box" },
+      { "name": "Kettle", "icon": "bi-cup" },
+      { "name": "Coffee machine", "icon": "bi-cup-hot" },
+      { "name": "Dishes", "icon": "bi-egg-fried" },
+      { "name": "Washing machine", "icon": "bi-droplet" },
+      { "name": "Dryer", "icon": "bi-wind" },
+      { "name": "Iron", "icon": "bi-lightning-charge" },
+      { "name": "Wardrobe", "icon": "bi-door-closed" }
+    ],
+    "mapPosition": [16.063496864086698, 108.23143002579948]
+  }
+]

@@ -1,0 +1,110 @@
+
+/* sidebar.css */
+.owner-sidebar {
+  width: 250px;
+  background: #fff;
+  border-right: 1px solid #f0f0f0;
+  padding: 20px 0;
+  height: 100vh;
+  position: static;
+  top: 64px; 
+  left: 0;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.owner-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+  background: #E2F1E8;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.owner-info .ant-avatar {
+  background: black;
+}
+
+.owner-info .ant-typography {
+  color: black;
+  text-align: center;
+}
+
+.owner-info .ant-typography + .ant-typography {
+  color: #595959;
+  font-size: 12px;
+}
+
+.owner-menu {
+  border: none;
+}
+
+.owner-menu .ant-menu-item {
+  height: 50px;
+  line-height: 50px;
+  padding-left: 24px;
+  color: #595959;
+  font-size: 14px;
+}
+
+.owner-menu .ant-menu-item-selected {
+  background: #E2F1E8;
+  color: #49735A;
+  font-weight: 500;
+}
+
+.owner-menu .ant-menu-item:hover {
+  background: #AFE3C3;
+  color: #49735A;
+}
+
+.owner-menu .ant-menu-item .anticon {
+  margin-right: 12px;
+}
+
+
+/* css cho modal view */
+
+/* Modal header */
+.ant-modal-title {
+  color: #49735A;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* Modal body */
+.ant-modal-content {
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #F5FBF6;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Info inside modal */
+.ant-modal-body p {
+  font-size: 15px;
+  margin: 10px 0;
+  color: #333333;
+}
+
+.ant-modal-body strong {
+  color: #49735A;
+}
+
+/* Image styling */
+.ant-modal-body img {
+  margin-bottom: 16px;
+  border: 2px solid #DDEBDD;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+/* Close button hover */
+.ant-modal-close-x {
+  color: #49735A;
+  transition: color 0.3s ease;
+}
+
+.ant-modal-close-x:hover {
+  color: #d9363e;
+}

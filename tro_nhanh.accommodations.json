@@ -1,0 +1,467 @@
+[{
+  "_id": {
+    "$oid": "6864e10bfcbff31d0462f0ee"
+  },
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "customerId": null,
+  "title": "Phòng trọ giá rẻ gần ĐH BK",
+  "description": "Phòng sạch sẽ, có máy lạnh, wifi mạnh",
+  "price": 1500000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "rejectedReason": "",
+  "location": {
+    "district": "Thanh Khê",
+    "street": "Lê Đình Lý",
+    "addressDetail": "123/5 Lê Đình Lý, gần chợ Tân Lập",
+    "latitude": 16.0557126,
+    "longitude": 108.2096635
+  },
+  "createdAt": {
+    "$date": "2025-07-02T07:34:35.288Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:06:52.738Z"
+  },
+  "__v": 0,
+  "photos": [
+    "/uploads/accommodation/1752030412733-room0.png"
+  ],
+  "approvedAt": {
+    "$date": "2025-07-14T11:01:55.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a09517b850b01571c620a"
+  },
+  "title": "Phòng trọ tiện nghi trung tâm Hải Châu",
+  "description": "Phòng trọ gần cầu Rồng, có nội thất cơ bản và bãi đậu xe.",
+  "price": 2500000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "location": {
+    "district": "Hải Châu",
+    "street": "Lê Duẩn",
+    "addressDetail": "Số 12, Lê Duẩn",
+    "latitude": 16.0714986,
+    "longitude": 108.2219482
+  },
+  "roomDetails": "1 phòng ngủ | 1 nhà vệ sinh | WiFi | Máy lạnh | Gần chợ",
+  "available": "10 Jul 2025",
+  "photos": [
+    "/uploads/accommodation/1752030422968-room1.png"
+  ],
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:07:02.988Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a09517b850b01571c620b"
+  },
+  "title": "Phòng studio gần biển Mỹ Khê",
+  "description": "Studio đẹp, cách biển chỉ 300m, yên tĩnh và thoáng mát.",
+  "price": 3200000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "location": {
+    "district": "Sơn Trà",
+    "street": "Nguyễn Văn Thoại",
+    "addressDetail": "Studio A3, Nguyễn Văn Thoại",
+    "latitude": 16.06068,
+    "longitude": 108.23256
+  },
+  "roomDetails": "Studio | 1 phòng tắm | WiFi | Máy giặt | Ban công",
+  "available": "15 Jul 2025",
+  "photos": [
+    "/uploads/accommodation/1752030435637-room2.png"
+  ],
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:07:15.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a09517b850b01571c620c"
+  },
+  "title": "Căn hộ mini Ngũ Hành Sơn",
+  "description": "Đầy đủ nội thất, gần Lotte Mart và biển Non Nước.",
+  "price": 4000000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "location": {
+    "district": "Ngũ Hành Sơn",
+    "street": "Trần Đại Nghĩa",
+    "addressDetail": "Căn hộ 2B, số 30 Trần Đại Nghĩa",
+    "latitude": 16.0188693,
+    "longitude": 108.2510099
+  },
+  "roomDetails": "1 phòng ngủ | 1 nhà tắm | Bếp | Máy lạnh | WiFi",
+  "available": "20 Jul 2025",
+  "photos": [
+    "/uploads/accommodation/1752030449624-room3.png"
+  ],
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:07:29.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a09517b850b01571c620d"
+  },
+  "title": "Phòng trọ giá rẻ Liên Chiểu",
+  "description": "Gần ĐH Bách Khoa, phù hợp sinh viên, an ninh tốt.",
+  "price": 1800000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "location": {
+    "district": "Liên Chiểu",
+    "street": "Nguyễn Lương Bằng",
+    "addressDetail": "Phòng A4, 213 Nguyễn Lương Bằng",
+    "latitude": 16.0944784,
+    "longitude": 108.1387727
+  },
+  "roomDetails": "1 phòng ngủ | Nhà vệ sinh chung | WiFi | Gần trường",
+  "available": "05 Aug 2025",
+  "photos": [
+    "/uploads/accommodation/1752030474449-property1.2.jpg"
+  ],
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:07:54.451Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a09517b850b01571c620e"
+  },
+  "title": "Căn hộ 2 phòng ngủ ở Cẩm Lệ",
+  "description": "Rộng rãi, có ban công và sân thượng, thích hợp gia đình nhỏ.",
+  "price": 4500000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "location": {
+    "district": "Cẩm Lệ",
+    "street": "Phạm Như Xương",
+    "addressDetail": "Căn hộ 4A, Phạm Như Xương",
+    "latitude": 16.01771,
+    "longitude": 108.20381
+  },
+  "roomDetails": "2 phòng ngủ | 1 nhà tắm | Bếp | Máy lạnh | Bãi xe",
+  "available": "01 Aug 2025",
+  "photos": [
+    "/uploads/accommodation/1752030484691-property2.1.jpg"
+  ],
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:08:04.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a09517b850b01571c620f"
+  },
+  "title": "Studio gần cầu Trần Thị Lý",
+  "description": "Phòng yên tĩnh, đầy đủ nội thất, tiện đi làm.",
+  "price": 3700000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "location": {
+    "district": "Hải Châu",
+    "street": "2 Tháng 9",
+    "addressDetail": "Số 89, đường 2/9",
+    "latitude": 16.0570361,
+    "longitude": 108.2222677
+  },
+  "roomDetails": "Studio | 1 phòng tắm | Bếp nhỏ | Máy giặt | Gần siêu thị",
+  "available": "10 Aug 2025",
+  "photos": [
+    "/uploads/accommodation/1752030496561-property2.2.jpg"
+  ],
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:08:16.563Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a09517b850b01571c6210"
+  },
+  "title": "Phòng trọ yên tĩnh Thanh Khê",
+  "description": "Gần ga Đà Nẵng, khu dân cư yên tĩnh, thoáng mát.",
+  "price": 2900000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "location": {
+    "district": "Thanh Khê",
+    "street": "Lý Thái Tổ",
+    "addressDetail": "Phòng 6B, Lý Thái Tổ",
+    "latitude": 16.0663069,
+    "longitude": 108.209018
+  },
+  "roomDetails": "1 phòng ngủ | 1 nhà vệ sinh | Gác lửng | Máy lạnh | WiFi",
+  "available": "12 Jul 2025",
+  "photos": [
+    "/uploads/accommodation/1752030518424-property3.1.jpg"
+  ],
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:08:38.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a09517b850b01571c6211"
+  },
+  "title": "Căn hộ gần bờ sông Hàn",
+  "description": "View sông, gần Vincom, thuận tiện di chuyển nội thành.",
+  "price": 5000000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "location": {
+    "district": "Sơn Trà",
+    "street": "Bạch Đằng",
+    "addressDetail": "Căn hộ 5C, số 200 Bạch Đằng",
+    "latitude": 16.06068,
+    "longitude": 108.23256
+  },
+  "roomDetails": "2 phòng ngủ | 2 nhà tắm | Ban công | Máy lạnh | View đẹp",
+  "available": "25 Jul 2025",
+  "photos": [
+    "/uploads/accommodation/1752030529978-property3.2.jpg"
+  ],
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:08:49.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a09517b850b01571c6212"
+  },
+  "title": "Phòng trọ sinh viên đường Núi Thành",
+  "description": "Giá rẻ, có chỗ nấu ăn, phù hợp sinh viên nhóm 2 người.",
+  "price": 2200000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "location": {
+    "district": "Hải Châu",
+    "street": "Núi Thành",
+    "addressDetail": "Phòng 2A, số 88 Núi Thành",
+    "latitude": 16.06778,
+    "longitude": 108.22083
+  },
+  "roomDetails": "1 phòng | Bếp nhỏ | Quạt | Toilet riêng | Gần ĐH Kiến Trúc",
+  "available": "08 Aug 2025",
+  "photos": [
+    "/uploads/accommodation/1752030540594-property4.1.jpg"
+  ],
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:09:00.595Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a09517b850b01571c6213"
+  },
+  "title": "Căn hộ cao cấp đường Trần Hưng Đạo",
+  "description": "Thiết kế sang trọng, gần cầu Rồng, full nội thất cao cấp.",
+  "price": 6000000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "location": {
+    "district": "Sơn Trà",
+    "street": "Trần Hưng Đạo",
+    "addressDetail": "Penthouse 10F, số 5 Trần Hưng Đạo",
+    "latitude": 16.0707418,
+    "longitude": 108.2288639
+  },
+  "roomDetails": "3 phòng ngủ | 2 nhà tắm | Thang máy | Ban công | View cầu Rồng",
+  "available": "30 Jul 2025",
+  "photos": [
+    "/uploads/accommodation/1752030553132-property4.2.jpg"
+  ],
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:09:13.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686cd301c99ef81cabfc5337"
+  },
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "customerId": null,
+  "title": "Đẹp Đó Haha123",
+  "description": "Đẹp rộng rãi",
+  "price": 2000000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "rejectedReason": "",
+  "location": {
+    "district": "Quận Ngũ Hành Sơn",
+    "street": "23 Thích Phước Huệ",
+    "addressDetail": "Gần chợ Non Nước",
+    "latitude": 16,
+    "longitude": 108.25
+  },
+  "photos": [
+    "/uploads/accommodation/1752030711354-2022-12-18t184756z_1952970918_up1eici1g7uat_rtrmadp_3_soccer-worldcup-arg-fra-report.jpg"
+  ],
+  "createdAt": {
+    "$date": "2025-07-08T08:12:49.251Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:11:51.358Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2025-07-14T11:01:52.889Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686cd487c99ef81cabfc535b"
+  },
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "customerId": null,
+  "title": "Nhà Trọ Quỳnh Hoa 2",
+  "description": "đẹp",
+  "price": 3000000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "approved",
+  "rejectedReason": "",
+  "location": {
+    "district": "Quận Ngũ Hành Sơn",
+    "street": "26 Lê Trung Đình",
+    "addressDetail": "Gần sân pickelball",
+    "latitude": 16,
+    "longitude": 108.25
+  },
+  "photos": [
+    "/uploads/accommodation/1752030721914-8f120cffea198788e158a80bbe97effd.jpg"
+  ],
+  "createdAt": {
+    "$date": "2025-07-08T08:19:19.391Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T03:12:01.917Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2025-07-14T11:01:50.270Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686dd9f6109badd38193cd9a"
+  },
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "customerId": null,
+  "title": "Trọ Nhện",
+  "description": "Đẹp",
+  "price": 2000000,
+  "status": "Available",
+  "isApproved": true,
+  "approvedStatus": "deleted",
+  "rejectedReason": "",
+  "location": {
+    "district": "Hòa Vang",
+    "street": "",
+    "addressDetail": "",
+    "latitude": 15.9703571,
+    "longitude": 108.028329
+  },
+  "photos": [
+    "/uploads/accommodation/1752029686954-1490.jpg"
+  ],
+  "createdAt": {
+    "$date": "2025-07-09T02:54:46.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T07:51:18.713Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2025-07-14T11:01:47.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68775babc7fe26f06948579d"
+  },
+  "ownerId": {
+    "$oid": "686c86ba176781eebabd7646"
+  },
+  "customerId": null,
+  "title": "Trọ Chanh",
+  "description": "Đẹp",
+  "price": 123123123,
+  "status": "Available",
+  "isApproved": false,
+  "approvedStatus": "pending",
+  "rejectedReason": "",
+  "location": {
+    "district": "Hải Châu",
+    "street": "123 Quảng Trị",
+    "addressDetail": "abc",
+    "latitude": 16.06778,
+    "longitude": 108.22083
+  },
+  "photos": [
+    "/uploads/accommodation/1752652715844-762acf22212881e3e0253f9e868effcd.jpg"
+  ],
+  "createdAt": {
+    "$date": "2025-07-16T07:58:35.899Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T07:58:35.904Z"
+  },
+  "__v": 0
+}]

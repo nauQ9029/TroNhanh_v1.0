@@ -1,0 +1,173 @@
+.table-responsive-wrapper {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.cancellation-container {
+  padding: 24px;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.cancellation-container h2 {
+  color: #49735A;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.cancellation-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #F5FBF6;
+}
+
+.cancellation-table th {
+  background-color: #DDEBDD;
+  color: #2f3e2f;
+  font-weight: 600;
+  font-size: 15px;
+  padding: 12px;
+  text-align: left;
+}
+
+.cancellation-table td {
+  padding: 12px;
+  font-size: 14px;
+  color: #3e3e3e;
+  background-color: #F5FBF6;
+  border-top: 1px solid #e0e0e0;
+}
+
+.cancellation-table tr:hover td {
+  background-color: #e8f5ea;
+}
+
+.status {
+  padding: 4px 10px;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.status.pending {
+  background-color: #fff8e1;
+  color: #b28704;
+}
+
+.status.approved {
+  background-color: #DDEBDD;
+  color: #2c3b2c;
+}
+
+.status.rejected {
+  background-color: #fbeaea;
+  color: #d9363e;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.approve-btn {
+  background-color: white;
+  color: #49735A;
+  border: 1.5px solid #49735A;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.approve-btn:hover {
+  background-color: #49735A;
+  color: white;
+}
+
+.reject-btn {
+  background-color: white;
+  color: #d14f4f;
+  border: 1.5px solid #d14f4f;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-left: 4px;
+}
+
+.reject-btn:hover {
+  background-color: #d14f4f;
+  color: white;
+}
+
+
+.empty-message {
+  text-align: center;
+  color: #999;
+  padding: 20px 0;
+}
+
+@media (max-width: 768px) {
+  .cancellation-container {
+    padding: 16px;
+  }
+
+  .cancellation-table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  .cancellation-table table {
+    min-width: 700px; /* Ép table đủ rộng, cho phép scroll ngang */
+  }
+
+  .cancellation-table th,
+  .cancellation-table td {
+    font-size: 13px;
+    padding: 10px;
+    word-break: break-word; /* Nếu nội dung dài sẽ xuống dòng */
+  }
+
+  .action-buttons {
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .approve-btn,
+  .reject-btn {
+    font-size: 13px;
+    padding: 6px 10px;
+    width: 100%; /* Giúp nút dễ bấm hơn trên mobile */
+  }
+
+  .status {
+    font-size: 12px;
+    padding: 4px 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  .cancellation-container h2 {
+    font-size: 20px;
+  }
+
+  .cancellation-table th,
+  .cancellation-table td {
+    font-size: 12px;
+    padding: 8px;
+  }
+
+  .approve-btn,
+  .reject-btn {
+    font-size: 12px;
+    padding: 5px 8px;
+  }
+}

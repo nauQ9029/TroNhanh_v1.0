@@ -1,0 +1,72 @@
+.registerPageWrapper {
+  min-height: 100vh;
+  background: #E2F1E8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+  font-family: 'Segoe UI', sans-serif;
+  margin-top: -80px;
+}
+
+.container {
+  width: 100%;
+  max-width: 480px;
+  background-color: #ffffff;
+  padding: 2.5rem 3rem;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  border: 2px solid #E2F1E8;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #49735A;
+}
+
+.formItem {
+  margin-bottom: 20px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.submitButton {
+  width: 100%;
+  max-width: 180px;
+  background-color: #E2F1E8;
+  border-color: #E2F1E8;
+  color: #49735A;
+  font-weight: 600;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.submitButton:hover {
+  background-color: #49735A !important;
+  border-color: #49735A !important;
+  color: white !important;
+}
+
+.login {
+  text-align: center;
+  margin-top: 16px;
+  font-size: 14px;
+  color: #49735A;
+}
+
+.login a {
+  color: #49735A;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.login a:hover {
+  text-decoration: underline;
+}

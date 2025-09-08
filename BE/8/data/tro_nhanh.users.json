@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "68708165f097c1bc8e46d22f"
+  },
+  "role": "owner",
+  "name": "Minh Quan",
+  "email": "quanle9029@gmail.com",
+  "password": "$2b$10$NSdQ/utQk18HRxu5APqplO8hzi6ArUWXoOybrL96mZh9AS7pITmv2",
+  "phone": "0941117871",
+  "gender": "male",
+  "avatar": "",
+  "status": "active",
+  "verified": true,
+  "resetPasswordToken": null,
+  "resetPasswordExpires": null,
+  "createdAt": {
+    "$date": "2025-07-11T03:13:41.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T03:14:02.917Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687081aef097c1bc8e46d23a"
+  },
+  "role": "customer",
+  "name": "Quan Minh",
+  "email": "plminhquan@gmail.com",
+  "password": "$2b$10$1WDw1fLrMl4qHMDeuoxXou0/3bei1uoEpMpIiQX0B0e7a3uQ8WwM2",
+  "phone": "0941117871",
+  "gender": "male",
+  "avatar": "",
+  "status": "active",
+  "verified": true,
+  "resetPasswordToken": null,
+  "resetPasswordExpires": null,
+  "createdAt": {
+    "$date": "2025-07-11T03:14:54.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T03:15:10.577Z"
+  },
+  "__v": 0
+}]

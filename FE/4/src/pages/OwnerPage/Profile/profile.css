@@ -1,0 +1,166 @@
+.profile-container {
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+.profile-card {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 24px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+/* 👇 Bọc info và nút Edit */
+.profile-header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1; /* chiếm hết không gian còn lại sau ảnh */
+}
+
+.profile-info {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.profile-pic {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.profile-info h2 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+}
+
+.profile-info p {
+    margin: 5px 0;
+    color: #666;
+}
+
+.edit-btn {
+    margin-left: 20px; /* khoảng cách với profile-info */
+    padding: 8px 16px;
+    background-color: #5c6b57;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.edit-btn:hover {
+    background-color: #4a5a47;
+}
+.ant-descriptions-item-label {
+    font-weight: bold;
+    color: #333;
+}
+
+.ant-descriptions-item-content {
+    color: #666;
+}
+
+.profile-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.phone-input {
+    max-width: 250px; /* hoặc chỉnh theo ý bạn, ví dụ 200px */
+}
+
+.update-time {
+    color: #999;
+    font-size: 12px;
+    display: block;
+    margin-top: 5px;
+}
+
+.ant-descriptions-item-content div {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.email-section {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #e8e8e8;
+
+    /* 👇 Canh trái phần email */
+    justify-content: flex-start;
+    max-width: 400px;     /* Giới hạn chiều rộng */
+    margin-left: 0;       /* Đẩy sát trái */
+}
+
+
+.email-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 16px;
+}
+
+.email-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.email-label {
+    font-weight: bold;
+    color: #333;
+    font-size: 14px;
+}
+
+.email-name {
+    margin: 4px 0 0;
+    font-weight: 500;
+    color: #444;
+}
+
+.email-address {
+    margin: 2px 0 0;
+    color: #666;
+}
+
+.edit-button-group {
+    display: flex;
+    gap: 10px;
+}
+
+.cancel-btn {
+    background-color: #999;
+}
+
+.cancel-btn:hover {
+    background-color: #777;
+}
+
+.avatar-container {
+  position: relative;
+}
+
+.avatar-upload {
+  margin-top: 10px;
+  display: block;
+}
